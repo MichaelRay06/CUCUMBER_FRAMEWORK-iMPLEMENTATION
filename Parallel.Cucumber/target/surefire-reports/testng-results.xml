@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="477" started-at="2020-04-14T22:06:26 BST" finished-at="2020-04-14T22:06:26 BST">
+    <groups>
+    </groups>
+    <test name="Automation parallel test" duration-ms="477" started-at="2020-04-14T22:06:26 BST" finished-at="2020-04-14T22:06:26 BST">
+      <class name="runTest.RunCucumberTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runTest.RunCucumberTest@35d176f7]" name="setUpClass" is-config="true" duration-ms="263" started-at="2020-04-14T22:06:26 BST" finished-at="2020-04-14T22:06:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runTest.RunCucumberTest@35d176f7]" name="tearDownClass" is-config="true" duration-ms="4" started-at="2020-04-14T22:06:26 BST" finished-at="2020-04-14T22:06:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runTest.RunCucumberTest -->
+    </test> <!-- Automation parallel test -->
+  </suite> <!-- Suite -->
+</testng-results>
