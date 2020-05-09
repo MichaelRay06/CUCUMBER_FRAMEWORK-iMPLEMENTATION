@@ -1,5 +1,7 @@
 package runTest;
 
+
+
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
@@ -10,7 +12,7 @@ import cucumber.api.testng.TestNGCucumberRunner;
 @cucumber.api.CucumberOptions(
 		
 
-		features = "./features/searchbrowserType.feature", 
+		features = "./features/search_product.feature", 
 		glue = "parallel.cucumber.stepDefs", 
 		tags="@parallelRunner",
 		monochrome = true, 
@@ -22,7 +24,7 @@ import cucumber.api.testng.TestNGCucumberRunner;
 
 )
 
-public class RunCucumberTest {
+public class RunBrowseSearchTest {
 	
 	@Test
 	public void runCukes() {
@@ -34,7 +36,8 @@ public class RunCucumberTest {
 
 
 
-/*	private TestNGCucumberRunner testNGCucumberRunner;
+
+	/*private TestNGCucumberRunner testNGCucumberRunner;
 
 	@BeforeClass(alwaysRun = true)
 	public void setUpClass() {

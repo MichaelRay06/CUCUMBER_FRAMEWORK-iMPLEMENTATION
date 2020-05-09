@@ -1,7 +1,7 @@
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\pageObject\HomePage.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\utils\BaseTest.java
+C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\stepDefs\BrowserSearchStepTest.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\stepDefs\HookesTest.java
-C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\pageObject\ConfirmDetails.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\pageObject\ProductSearchPage.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\utils\DriverFactory.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\pageObject\TopMenus.java
@@ -9,8 +9,8 @@ C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\tes
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\pageObject\ContactPage.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\runTest\RunCucumberTest.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\pageObject\LandingPage.java
+C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\runTest\RunBrowseSearchTest.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\utils\ReadConfigFile.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\pageObject\VerifySelectedProduct.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\utils\Constants.java
 C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\pageObject\LoginPage.java
-C:\Users\mrmra\eclipse-workspace\cucumberParallel_test\Parallel.Cucumber\src\test\java\parallel\cucumber\pageObject\EditDetails.java

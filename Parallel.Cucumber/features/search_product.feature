@@ -17,9 +17,8 @@ Scenario Outline: verify produt search
 	Examples: 
 	
 		|browserName       |pageTitle         |emailAddr                 |passwDdAddr       |myAccountTitleText        |searchProduct    |vrifyProduct |
-		| chrome           |CarGuruji Shop    |bfatogun@yahoo.com        |sonsofgod          |MY ACCOUNT                  |blouse           |BLOUSE|
+		#| chrome           |CarGuruji Shop    |bfatogun@yahoo.com        |sonsofgod          |MY ACCOUNT                  |blouse           |BLOUSE|
 		| firefox          |CarGuruji Shop    |bfatogun@yahoo.com        |sonsofgod          |MY ACCOUNT                  |blouse           |BLOUSE|
-		#| IE               |CarGuruji Shop    |bfatogun@yahoo.com        |sonsofgod          |MY ACCOUNT                  |blouse           |BLOUSE|
 		
 		
 		
@@ -38,4 +37,4 @@ Scenario Outline: verify produt search
 	
 		|browserName       |pageTitle         |emailAddr                 |passwDdAddr       |myAccountTitleText        |searchProduct    |vrifyProduct |
 		| chrome           |CarGuruji Shop    |bfatogun@yahoo.com        |sonsofgod          |MY ACCOUNT                  |blouse           |BLOUSE|
-		| firefox          |CarGuruji Shop    |bfatogun@yahoo.com        |sonsofgod          |MY ACCOUNT                  |blouse           |BLOUSE|
+		#| firefox          |CarGuruji Shop    |bfatogun@yahoo.com        |sonsofgod          |MY ACCOUNT                  |blouse           |BLOUSE|
