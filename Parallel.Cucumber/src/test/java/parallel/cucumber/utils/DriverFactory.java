@@ -14,8 +14,10 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class DriverFactory {
 	
 	
-	public WebDriver driver=null;
+	private WebDriver driver=null;
 	String browserName;
+
+
 	
 	public WebDriver initialization(String browserName){
 		
@@ -58,7 +60,14 @@ public class DriverFactory {
 	
 }
 	
+
+
+public void getURL(String url) {
+	driver.get(url);
 	
+	
+}
+
 
 public WebDriver shutDownDriver() {
 	if(driver==null)
